@@ -1,0 +1,4 @@
+can only read BMP and can not support multiple texture in one mtl.
+can not read other info in mtl
+ready to import SOIL lib to support jpg and png
+->need to change the structure of OBJLoader

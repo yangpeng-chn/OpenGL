@@ -1,0 +1,2 @@
+can read and show obj with multiple textures(unstable)
+ready to optimize
